@@ -1,5 +1,5 @@
 # patika.dev
-veri yapilari ve algoritmalar projeleri
+veri yapilari ve algoritmalar selection sort projesi
 
 **Proje 1**
 
